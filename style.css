@@ -1,0 +1,31 @@
+body {
+    background-color: rgb(184, 199, 218);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.middle {
+    background-color: white;
+    display: grid;
+    place-items: center;
+    border-radius: 7px;
+    width: fit-content;
+    margin: 50px;
+    
+   
+}
+
+img {
+    height: 200px;
+    margin: 15px;
+    border-radius: 7px;    
+}
+
+p {
+    margin: 10px;
+    width: 170px;
+    display: flex;
+    align-content: center;
+}
